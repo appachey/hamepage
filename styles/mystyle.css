@@ -25,4 +25,4 @@ h4 { font-weight: 400i; font-size: 1rem; font-family: 'Raleway', sans-serif; let
 a { color: rgb(75, 125, 235); text-decoration: none; }
 .ui.container.bordered{border-width: 1px; border-style: solid;}
 .ui.basic.segment.stackable.grid.topmarg{margin-top: 0;}
-.ui.three.wide.column.rborder{border-right: 1px solid rgb(0, 0, 0);}
+.ui.three.wide.column.rborder{border-right: 1px solid #dedede;}
